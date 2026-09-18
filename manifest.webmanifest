@@ -1,0 +1,9 @@
+{
+  "name": "React Artifact",
+  "short_name": "React App",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "Aplicativo web instalável."
+}
